@@ -1,0 +1,39 @@
+Employee
+{
+	Name: Andrei
+	Position: Intern
+	Capacity:8.5
+	Hobbies:gaming,long hair, voluntariat
+	UniversityName:Oradea
+	YearOfStudy:2
+	TargetPosition:Dev
+}
+Employee
+{
+	Name:Dutu
+	Position:DEV
+	Capacity:8
+	Hobbies:joker, dancer
+	TechnologyStack:.NET, Linq
+}
+
+Employee
+{
+	Name:Daniel
+	Position:QA
+	Capacity:8
+	Hobbies:nu are
+	TestingTools:mouse
+}
+
+Project
+	Name:Internship
+	Description:preparing students for life
+	Deadline:2018.07.31
+	Team:Dutu, Daniel, Andrei
+
+Project
+	Name:UIPath
+	Description:automating processes
+	Deadline:2019.12.31
+	
